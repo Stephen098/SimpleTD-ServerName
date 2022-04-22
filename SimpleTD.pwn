@@ -2,7 +2,7 @@
     new Text:ServerName[3];
     
     //OnGameModeInit
-	ServerName[0] = TextDrawCreate(299.000000, 1.000000, "Homel ~w~and-RP");
+	ServerName[0] = TextDrawCreate(299.000000, 1.000000, "Homel~w~and-RP");
 	TextDrawFont(ServerName[0], 1);
 	TextDrawLetterSize(ServerName[0], 0.237500, 1.949999);
 	TextDrawTextSize(ServerName[0], 400.000000, 17.000000);
